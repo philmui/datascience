@@ -1,3 +1,8 @@
+# Ignore configurations which may contain secrets not to be shared
+cfg/
+*~
+dsenv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
