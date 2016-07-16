@@ -12,7 +12,9 @@ oauthlib==1.0.3
 pandas==0.18.0
 pandas-datareader==0.2.1
 pdfminer==20110515
+pdftables==0.0.4
 PyYAML==3.11
 scipy==0.17.0
 tabulate==0.7.3
 tweepy==3.5.0
+xlrd==0.9.4
