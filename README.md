@@ -8,15 +8,19 @@ venv backward port to Python 2.7.
 
 To install all prerequisites with venv, type:
 
-> venv dsenv
-> source dsenv/bin/activate
-> pip install -r requirements.txt
+```
+venv dsenv
+source dsenv/bin/activate
+pip install -r requirements.txt
+```
 
 If you are using Anaconda or generic Python's virtualenv, type:
 
-> virtualenv dsenv
-> source dsenv/bin/activate
-> pip install -r requirements.txt
+```
+virtualenv dsenv
+source dsenv/bin/activate
+pip install -r requirements.txt
+```
 
 
 ## Configurations
