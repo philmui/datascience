@@ -1,6 +1,7 @@
 anyjson==0.3.3
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
+bokeh==0.12.1
 configparser==3.3.0.post2
 cssselect==0.9.1
 ipython==4.0.0
